@@ -1,0 +1,8 @@
+{
+    "StudentDetails" : {
+        "Id":"001",
+        "name": "Ahmed Ali",
+        "age" : 50,
+        "IsDisabled" : false
+    }
+}

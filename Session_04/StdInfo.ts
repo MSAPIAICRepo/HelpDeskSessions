@@ -1,3 +1,4 @@
+//#!Usr/bin/env node
 let iObjects = require("./Students");
 
 let appStds = iObjects.approvedStudents;

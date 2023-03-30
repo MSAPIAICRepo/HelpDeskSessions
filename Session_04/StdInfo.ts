@@ -14,7 +14,6 @@ let appStds = penStds.approvedStudents;     //Import All exported multiple
 let stdObjs = penStds.studentObj;
 let rejStds = penStds.rejectedStudents;
 
-
 console.log("All Students");
 for (let s = 0; s < stdObjs.length; s++)
     console.log(`ID = ${stdObjs[s].id}, Name = ${stdObjs[s].name}`);

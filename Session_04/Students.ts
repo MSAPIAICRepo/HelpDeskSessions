@@ -31,7 +31,6 @@ let pendingStudents = [
     { id: 3, name: "Kaleem" },
 ];
 
-
 //export default pendingStudents;
 
 export default { studentObj, approvedStudents, rejectedStudents, pendingStudents };

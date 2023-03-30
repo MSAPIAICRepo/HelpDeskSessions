@@ -1,7 +1,7 @@
 let myString1 = "MyString";
 let myString2 = "Ms2";
-let myString3 = "Ms2";
-let myString4 = "Ms2";
+let myString3 = "Ms3";
+let myString4 = "Ms4";
 
 
 console.log("Value in MyString "+myString1+myString2+myString3+myString4);
